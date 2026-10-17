@@ -1,1 +1,5 @@
-# javascript-publish-action
+
+# SDK-Fabric JavaScript Publish
+
+This action is part of the [SDK-Fabric](https://sdk-fabric.org/) project which provides
+an open infrastructure to automatically generate SDKs.
